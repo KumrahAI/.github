@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/KumrahAI/.github/main/profile/kumrah-ai-logo-blue.svg" alt="KUMRAH AI" width="440">
 
-### Robotics re-imagined — machines that see, think and act with precision.
+### Aerospace-grade computer vision, deployed on the edge.
 
 **Neuromorphic robotics & AI automation** · Abu Dhabi, UAE
 
