@@ -27,7 +27,7 @@ industry.
 
 ## What we do
 
-- **Perception models** — detection, multi-object tracking, inspection and metrology for tiny, fast and hard-to-see targets.
+- **Perception models** — detection, tracking, inspection and metrology for tiny, fast and hard-to-see targets.
 - **Edge deployment** — quantization, pruning and compilation for NPUs, microcontrollers and neuromorphic processors, measured on the device.
 - **Event-based & neuromorphic vision** — event cameras and spiking networks for fast motion, glare and vibrating platforms.
 - **Synthetic data** — simulated scenes with calibrated camera models for training data that real capture cannot reach.
