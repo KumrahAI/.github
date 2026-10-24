@@ -15,6 +15,16 @@ robots, drones, handheld tools and fixed stations. We started in aerospace manuf
 maintenance, repair and overhaul (MRO), and now bring that precision to defense, security and
 industry.
 
+## Vision
+
+> Perception that runs where the problem is, on a drone, a robot, a handheld tool or a fixed
+> station, with aerospace-grade reliability.
+
+## Mission
+
+> Be the team the region calls when a generic AI vendor cannot meet the precision, latency or
+> power budget.
+
 ## What we do
 
 - **Perception models** — detection, multi-object tracking, inspection and metrology for tiny, fast and hard-to-see targets.
@@ -26,16 +36,6 @@ industry.
 ## Industries we serve
 
 Aerospace manufacturing & MRO · Defense & public security · Industrial inspection · Energy & utilities · Logistics & mobility
-
-## Vision
-
-> Perception that runs where the problem is, on a drone, a robot, a handheld tool or a fixed
-> station, with aerospace-grade reliability.
-
-## Mission
-
-> Be the team the region calls when a generic AI vendor cannot meet the precision, latency or
-> power budget.
 
 <div align="center">
 
