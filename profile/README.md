@@ -4,30 +4,38 @@
 
 ### Aerospace-grade computer vision, deployed on the edge.
 
-**Neuromorphic robotics & AI automation** · Abu Dhabi, UAE
+**Edge-AI computer vision for demanding industries** · Abu Dhabi, UAE
 
 </div>
 
 ---
 
-KUMRAH AI delivers next-generation robotic systems powered by **neuromorphic computing**
-and **event-based vision**, integrating advanced sensing and autonomous capabilities for
-demanding industrial applications.
+KUMRAH AI builds high-precision computer vision and runs it on the hardware in the field:
+robots, drones, handheld tools and fixed stations. We started in aerospace manufacturing and
+maintenance, repair and overhaul (MRO), and now bring that precision to defense, security and
+industry.
 
 ## What we do
 
-- **Robotic vision & autonomy** — perception and control that let machines operate on their own.
-- **Neuromorphic vision** — brain-inspired, event-based sensing for ultra-fast machine perception.
-- **Mobile collaborative robots** — autonomous platforms that work alongside people.
-- **Custom integration** — advanced perception and control brought into real industrial systems.
+- **Perception models** — detection, multi-object tracking, inspection and metrology for tiny, fast and hard-to-see targets.
+- **Edge deployment** — quantization, pruning and compilation for NPUs, microcontrollers and neuromorphic processors, measured on the device.
+- **Event-based & neuromorphic vision** — event cameras and spiking networks for fast motion, glare and vibrating platforms.
+- **Synthetic data** — simulated scenes with calibrated camera models for training data that real capture cannot reach.
+- **Robotic & aerial integration** — perception brought into real robots, drones and field systems.
 
 ## Industries we serve
 
-Industrial manufacturing & inspection · Infrastructure & utilities · Logistics & warehousing · Mobility & autonomous systems
+Aerospace manufacturing & MRO · Defense & public security · Industrial inspection · Energy & utilities · Logistics & mobility
+
+## Vision
+
+> Perception that runs where the problem is, on a drone, a robot, a handheld tool or a fixed
+> station, with aerospace-grade reliability.
 
 ## Mission
 
-> Make robotics truly perceptive, autonomous and mission-effective for the UAE and MENA region.
+> Be the team the region calls when a generic AI vendor cannot meet the precision, latency or
+> power budget.
 
 <div align="center">
 
